@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image Background Remover</string>
+    <string name="remove_background">Remove Background</string>
+</resources>
