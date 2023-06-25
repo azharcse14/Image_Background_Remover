@@ -1,2 +1,2 @@
 # ImageBackgroundRemover
- Image Background Remover using ML kit selfie segmentation.
+ Image Background Remover using MLKit selfie segmentation
